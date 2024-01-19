@@ -9,8 +9,7 @@ The Pet Adoption API allows users to register pets to be adopted. It provides en
 
 ### Technologies Used
 - Java
-<!-- - [Framework Name, if applicable]
-- [Database Name, if applicable] -->
+- Spring-Boot
 
 ### How to Run
 1. [Instructions for setting up and running the Pet Adoption API]
@@ -22,8 +21,8 @@ The To-Do List API enables users to manage their to-do lists. It includes functi
 
 ### Technologies Used
 - Java
-<!-- - [Framework Name, if applicable]
-- [Database Name, if applicable] -->
+- Spring-Boot
+<!-- [Database Name, if applicable] -->
 
 ### How to Run
 1. [Instructions for setting up and running the To-Do List API]
@@ -35,8 +34,8 @@ The Catalog of Videos API provides endpoints for managing a catalog of videos. I
 
 ### Technologies Used
 - Java
-<!-- - [Framework Name, if applicable]
-- [Database Name, if applicable] -->
+- Spring-Boot
+<!-- - [Database Name, if applicable] -->
 
 ### How to Run
 1. [Instructions for setting up and running the Catalog of Videos API]
