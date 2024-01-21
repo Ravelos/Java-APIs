@@ -35,7 +35,9 @@ The Catalog of Videos API provides endpoints for managing a catalog of videos. I
 ### Technologies Used
 - Java
 - Spring-Boot
-<!-- - [Database Name, if applicable] -->
+- Spring Data JPA
+- SQL Server
+- Liquibase Migration
 
 ### How to Run
 1. [Instructions for setting up and running the Catalog of Videos API]
