@@ -1,2 +1,7 @@
-package org.api.studies.petadoption.controller;public class AdoptionController {
+package org.api.studies.petadoption.controller;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class AdoptionController {
 }
