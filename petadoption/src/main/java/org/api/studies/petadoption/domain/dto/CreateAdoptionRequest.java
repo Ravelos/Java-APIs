@@ -1,2 +1,4 @@
-package org.api.studies.petadoption.domain.dto;public class CreateAdoptionRequest {
+package org.api.studies.petadoption.domain.dto;
+
+public class CreateAdoptionRequest {
 }
