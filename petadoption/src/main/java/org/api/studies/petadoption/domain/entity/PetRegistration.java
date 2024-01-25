@@ -45,9 +45,6 @@ public class PetRegistration {
     private int nivelCarinho;
 
     @Column
-    private String email;
-
-    @Column
     @Email
     @NotBlank
     private String email;
